@@ -1,0 +1,4 @@
+TITLE = "ROGUELIKE"
+AUTHOR = "Amir Bakarov"
+VERSION = "1.0"
+DATE = '2023'

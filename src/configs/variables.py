@@ -1,0 +1,6 @@
+PLAY_STATE = 'play'
+QUIT_STATE = 'quit'
+HOME_STATE = 'home'
+GAME_STATE = 'game'
+NEXT_LEVEL_STATE = 'next_level'
+GAME_OVER_STATE = 'game_over'
